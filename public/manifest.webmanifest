@@ -1,0 +1,10 @@
+{
+  "name": "Karachi Nasheman Kitchen",
+  "short_name": "KN Kitchen",
+  "description": "Kitchen recipes, stock and branch dispatches for Karachi Nasheman.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7f3",
+  "theme_color": "#123b31",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
